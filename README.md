@@ -2,7 +2,7 @@ PROGPOEPart1
 
 ST10467804
 
-GitHub Repository -
+GitHub Repository - https://github.com/ST10467804/PROGPOEPart1
 
 YouTube Video - https://youtu.be/S7VGWsvYXPw
 
